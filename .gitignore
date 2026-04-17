@@ -11,5 +11,12 @@ wheels/
 .env.local
 .env.example
 
+.vscode
+.idea
+
+#migrations
+migrations/
+.ruff_cache
+
 # Virtual environments
 .venv
